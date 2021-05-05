@@ -1,6 +1,6 @@
 # Bad Time Simulator (Sans Fight)
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
-It was made with [Construct 2](https://www.scirra.com/construct2).
+I wade with [Construct 2](https://www.scirra.com/construct2).
 
 Known Issues
 ------------
@@ -13,5 +13,4 @@ Contact
 -------
 If you want to contact me for some reason, you can do so through the following:
 
-- [Facepunch](https://facepunch.com/member.php?u=13155)
-- [Steam](http://steamcommunity.com/id/Jcw87/)
+- [Facepunch](https://facepunch.com/member
